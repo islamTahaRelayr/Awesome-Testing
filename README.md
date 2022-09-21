@@ -58,6 +58,7 @@
 - [How to Run TravisCI locally on Docker](https://medium.com/google-developers/how-to-run-travisci-locally-on-docker-822fc6b2db2e)
 - [Docker selenium python chrome firefox image](https://github.com/dimmg/dockselpy)
 - [Publishing HTML Reports in Pipeline](https://jenkins.io/blog/2016/07/01/html-publisher-plugin/)
+- [Debugging a GitHub Actions workflow via SSH](https://www.codejam.info/2022/05/debugging-github-actions-workflow-ssh.html)
 
 ## Free test management systems:
 - https://github.com/OpenTMI/opentmi
